@@ -11,16 +11,17 @@ body {
   margin-right:-1cm;
   margin-top:-1cm;
   padding-top: 2cm;
-  padding-bottom: 2cm;
+  padding-bottom: 3cm;
   height: 5mm;
  }
 
 .topmenu {
-  color: lightgray;
-  margin: 10px;
+  color: white;
+  margin: 15px;
   padding: 20px;
-  font-size: 20px;
+  font-size: 25px;
   text-decoration:none;
+  font-weight: bold
 }
 
 .topmenu:hover {
@@ -136,7 +137,7 @@ h2 {
 }
 
 .skill img {
-  height: 35px;
+  height: 80px;
   align-items: center;
 }
 
