@@ -1,5 +1,7 @@
 # DestinyFrost-ProjectPortfolio
 
-Currently this is the Coursera portfolio template I created as my final project for the Introduction to Web Development course. 
+Welcome to my portfolio repository!
 
-I will be updating it in the near future and using it as my actual portfolio. 
+This was originally a final project in my Introduction to HTML, CSS, JavaScript course as a part of the IBM Full Stack Software Developer program. 
+
+Now I have customized it and created my very own portfolio with my current information.
